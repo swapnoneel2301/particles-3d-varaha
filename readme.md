@@ -1,5 +1,5 @@
 # Three.js Journey
-[Live Link](https://particles-3d-varaha.onrender.com){:target="_blank" rel="noopener"}
+[Live Link](https://particles-3d-varaha.onrender.com)
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
